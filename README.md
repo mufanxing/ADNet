@@ -31,8 +31,9 @@ Pretrained model weights with denoisy have been uploaded to the `model_weights` 
 - Data Type: Remote sensing images (adapted for denoising)
 
 ### Dataset Download
-
-[Google Drive Download Link](https://drive.google.com/file/d/1MDqUg-xj7-N4g_7UB9Gg6uh3wwDw0W2W/view?usp=drive_link)
+⚠️ **Temporary peer‑review‑only access (for editors and reviewers only). This anonymous link will expire once the dataset is officially published on ScienceDB after manuscript acceptance.**
+> download link (ScienceDB anonymous private link):
+> [https://www.scidb.cn/en/anonymous/eXlFTkZ6](https://www.scidb.cn/en/anonymous/eXlFTkZ6)
 
 ## Code & Installation Tutorial
 
